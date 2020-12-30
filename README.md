@@ -1,8 +1,8 @@
 # Group-chat
  It’s a simple group Chat application where you can chat with more than one user, share files by connecting to the host IP
 # Version
- Java JDK 11.0.2
- JRE 1.8.0_231
+ - Java JDK 11.0.2
+ - JRE 1.8.0_231
 ## Steps
 ### IP address used is 239.0.0.0 1234
 - 1
